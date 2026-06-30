@@ -1,0 +1,101 @@
+provider_id,hospital_name,city,provider_type,empanelled
+PROV0001,Goda Ltd Hospital,Pune,Government,Yes
+PROV0002,Dave-Kala Hospital,Mumbai,Clinic,Yes
+PROV0003,Sant-Varty Hospital,Surat,Diagnostic Center,Yes
+PROV0004,Naik-Yogi Hospital,Ahmedabad,Clinic,Yes
+PROV0005,Tara and Sons Hospital,Delhi,Clinic,Yes
+PROV0006,Shan-Talwar Hospital,Pune,Clinic,Yes
+PROV0007,"Raju, Malhotra and Banerjee Hospital",Delhi,Diagnostic Center,Yes
+PROV0008,"Ray, Agrawal and Sheth Hospital",Pune,Clinic,Yes
+PROV0009,Kapur Ltd Hospital,Mumbai,Clinic,No
+PROV0010,"Kohli, Murthy and Sawhney Hospital",Mumbai,Government,No
+PROV0011,Dewan-Rao Hospital,Pune,Private,No
+PROV0012,Kota-Sabharwal Hospital,Mumbai,Private,No
+PROV0013,"Basu, Rastogi and Butala Hospital",Delhi,Clinic,No
+PROV0014,"Johal, Venkatesh and Mannan Hospital",Pune,Private,Yes
+PROV0015,Walia Group Hospital,Mumbai,Private,Yes
+PROV0016,Patel Group Hospital,Delhi,Private,No
+PROV0017,Boase Group Hospital,Mumbai,Private,Yes
+PROV0018,Guha PLC Hospital,Ahmedabad,Government,Yes
+PROV0019,Soman-Kalita Hospital,Delhi,Private,Yes
+PROV0020,Anand-Goda Hospital,Delhi,Diagnostic Center,No
+PROV0021,Chakrabarti-Barman Hospital,Delhi,Diagnostic Center,Yes
+PROV0022,"Dhingra, Shere and Ramanathan Hospital",Mumbai,Private,Yes
+PROV0023,"Seshadri, Salvi and Basak Hospital",Mumbai,Private,Yes
+PROV0024,"Vala, Bal and Choudhary Hospital",Pune,Clinic,Yes
+PROV0025,Pai Ltd Hospital,Pune,Private,Yes
+PROV0026,"Anne, Lala and Rana Hospital",Ahmedabad,Clinic,Yes
+PROV0027,"Tank, Warrior and Sankar Hospital",Surat,Private,No
+PROV0028,Shetty Ltd Hospital,Delhi,Private,No
+PROV0029,"Rajan, Karpe and Dey Hospital",Surat,Diagnostic Center,Yes
+PROV0030,Sachar PLC Hospital,Mumbai,Private,Yes
+PROV0031,"Wadhwa, Bala and Misra Hospital",Ahmedabad,Diagnostic Center,Yes
+PROV0032,"Manda, Toor and Shah Hospital",Delhi,Diagnostic Center,Yes
+PROV0033,"Chad, Warrior and Nagarajan Hospital",Mumbai,Private,Yes
+PROV0034,Pillay PLC Hospital,Mumbai,Diagnostic Center,No
+PROV0035,Muni PLC Hospital,Delhi,Diagnostic Center,Yes
+PROV0036,"Dash, Trivedi and Lad Hospital",Surat,Diagnostic Center,Yes
+PROV0037,Balay Inc Hospital,Pune,Diagnostic Center,Yes
+PROV0038,Ramaswamy-Arya Hospital,Surat,Government,Yes
+PROV0039,Saini Group Hospital,Surat,Diagnostic Center,Yes
+PROV0040,"Choudhry, Shankar and Dutta Hospital",Mumbai,Diagnostic Center,Yes
+PROV0041,Narang Ltd Hospital,Pune,Diagnostic Center,Yes
+PROV0042,"Gola, Rastogi and Pai Hospital",Mumbai,Clinic,No
+PROV0043,Chada PLC Hospital,Surat,Clinic,Yes
+PROV0044,Ganesh-Dara Hospital,Surat,Private,No
+PROV0045,Bail Inc Hospital,Delhi,Government,Yes
+PROV0046,Mody-Walla Hospital,Surat,Diagnostic Center,Yes
+PROV0047,Kara PLC Hospital,Pune,Government,Yes
+PROV0048,"Bath, Pingle and Sekhon Hospital",Pune,Private,No
+PROV0049,Yohannan-Mishra Hospital,Surat,Clinic,No
+PROV0050,"Lanka, Nadkarni and Dutt Hospital",Ahmedabad,Private,No
+PROV0051,"Nagy, Deo and Dyal Hospital",Pune,Private,No
+PROV0052,Natt-Madan Hospital,Ahmedabad,Clinic,Yes
+PROV0053,"Ramaswamy, Ravel and Suri Hospital",Mumbai,Government,Yes
+PROV0054,Bhandari Group Hospital,Ahmedabad,Diagnostic Center,Yes
+PROV0055,Sane and Sons Hospital,Ahmedabad,Diagnostic Center,Yes
+PROV0056,Wadhwa-Kannan Hospital,Surat,Diagnostic Center,Yes
+PROV0057,Dhar-Narula Hospital,Mumbai,Clinic,Yes
+PROV0058,Dhawan Ltd Hospital,Mumbai,Private,Yes
+PROV0059,Dube-Sinha Hospital,Ahmedabad,Diagnostic Center,Yes
+PROV0060,Golla-Nanda Hospital,Delhi,Diagnostic Center,Yes
+PROV0061,Goyal Group Hospital,Mumbai,Government,Yes
+PROV0062,"Devi, Shanker and Kunda Hospital",Mumbai,Government,Yes
+PROV0063,"Nanda, Bhavsar and Mahal Hospital",Ahmedabad,Diagnostic Center,No
+PROV0064,Dalal-Dar Hospital,Surat,Government,No
+PROV0065,Purohit-Dugal Hospital,Mumbai,Private,No
+PROV0066,Kumar Inc Hospital,Surat,Diagnostic Center,No
+PROV0067,"Bhatti, Jani and Mahajan Hospital",Ahmedabad,Government,Yes
+PROV0068,"Rajan, Kulkarni and Chaudhary Hospital",Pune,Clinic,Yes
+PROV0069,"Gokhale, Tata and Nagi Hospital",Ahmedabad,Private,Yes
+PROV0070,Sundaram Group Hospital,Ahmedabad,Clinic,Yes
+PROV0071,Gera-Lal Hospital,Mumbai,Government,Yes
+PROV0072,"Srinivas, Tank and Thaker Hospital",Delhi,Government,Yes
+PROV0073,Bobal-Karpe Hospital,Ahmedabad,Diagnostic Center,Yes
+PROV0074,Sahni-Bhargava Hospital,Mumbai,Clinic,Yes
+PROV0075,Sheth-Nagarajan Hospital,Surat,Clinic,Yes
+PROV0076,Mital-Patla Hospital,Ahmedabad,Clinic,Yes
+PROV0077,Sane-Mukherjee Hospital,Delhi,Diagnostic Center,Yes
+PROV0078,"Ratta, Sachar and Goel Hospital",Surat,Government,Yes
+PROV0079,Dixit PLC Hospital,Surat,Private,Yes
+PROV0080,Muni PLC Hospital,Delhi,Clinic,No
+PROV0081,Suresh-Bansal Hospital,Pune,Private,Yes
+PROV0082,Nanda-Rama Hospital,Pune,Government,Yes
+PROV0083,"Rajan, Reddy and Subramaniam Hospital",Pune,Government,No
+PROV0084,Sur Inc Hospital,Pune,Clinic,No
+PROV0085,Sheth and Sons Hospital,Pune,Clinic,Yes
+PROV0086,Jaggi-Lad Hospital,Pune,Clinic,Yes
+PROV0087,Anand PLC Hospital,Pune,Diagnostic Center,No
+PROV0088,Kapur Group Hospital,Surat,Private,Yes
+PROV0089,"Mitra, Lalla and Rajagopalan Hospital",Delhi,Private,Yes
+PROV0090,"Sarkar, Taneja and Bhatnagar Hospital",Ahmedabad,Government,No
+PROV0091,Yadav Inc Hospital,Ahmedabad,Private,No
+PROV0092,Dara LLC Hospital,Surat,Government,Yes
+PROV0093,"Gokhale, Soni and Rajagopalan Hospital",Delhi,Private,Yes
+PROV0094,"Subramaniam, Dua and Ahluwalia Hospital",Mumbai,Clinic,Yes
+PROV0095,Nanda-Padmanabhan Hospital,Ahmedabad,Clinic,Yes
+PROV0096,Kadakia-Korpal Hospital,Pune,Clinic,Yes
+PROV0097,Edwin-Dass Hospital,Ahmedabad,Clinic,Yes
+PROV0098,Khare-Walia Hospital,Surat,Government,Yes
+PROV0099,Natarajan Group Hospital,Mumbai,Clinic,Yes
+PROV0100,"Sheth, Sane and Padmanabhan Hospital",Surat,Diagnostic Center,Yes
